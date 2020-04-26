@@ -179,7 +179,7 @@ let model = null;
 
 async function loadNeuralNet() {
   model = await tf.loadLayersModel(
-    'https://qodatecnologia.github.io/tfjs/json/model.json'
+    'https://raw.githubusercontent.com/gustavocastro78/digits-classification/master/models/model.json'
   );
 }
 // Parses our grid into a matrix so we can then convert to a tensor.
