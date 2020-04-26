@@ -11,5 +11,9 @@ The intention about this project, is plot a graph based on accuracy over drafted
 ## :wrench: Technologies and Tools
 
 - [Javascript](https://www.php.net/)
-- [Tensorflow]()
-- [Chart.js]()
+- [Tensorflow](https://www.tensorflow.org/)
+- [Chart.js](https://www.chartjs.org/)
+
+## :arrow_forward: Demo
+
+https://gustavocastro78.github.io/digits-classification/
