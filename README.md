@@ -2,7 +2,7 @@
     Digits Classification
 </h1>
 
-<p>
+<p align="center">
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"/></a>
     <img src="https://img.shields.io/badge/Status-Stable-green" />
 </p>
